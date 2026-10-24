@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this reconstructed research software, please cite this repository and clearly describe its provenance."
+title: "Knowledge-based AI for Digital Transformation Readiness: reconstructed research code"
+authors:
+  - family-names: Murakonda
+    given-names: Gnana Sandeep
+repository-code: "https://github.com/GnanaSandeepmurakonda/AI-Integrated-Data-Analytics"
+license: MIT
